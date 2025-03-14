@@ -72,13 +72,13 @@ Finally I want to look at blood pressure management. Blood pressure is a key ind
 
 In this healthcare analytics project, I build some dashoboards in tableau for flu shots, emergency room visits, and encounters.
 
-[View Flu Shot Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ImmunizationDashboard_17059437063380/Dashboard1)
 
-[View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ERDashboard_17056878215500/Dashboard1)
 
-[View Encounter Dashboard 1](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard1/Dashboard2)
+[View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/sayyed.asifb.rizvi/viz/ERDashboard_v2024_2/Dashboard1)
 
-[View Encounter Dashboard 2](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard2/Dashboard1)
+[View Encounter Dashboard 1](https://public.tableau.com/app/profile/sayyed.asifb.rizvi/viz/EncounterDashboard1_v2024_2/Dashboard2)
+
+[View Encounter Dashboard 2](https://public.tableau.com/app/profile/sayyed.asifb.rizvi/viz/EncounterDashboard2_v2024_2/Dashboard1)
 
 
 
